@@ -1,3 +1,4 @@
-Pandas
+Python(Pandas)
 Matplotlib
 Jupyter
+Powerbi
